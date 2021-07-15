@@ -3,3 +3,5 @@ Data Sekolah
 - Data Siswa
 - Mata Pelajaran
 - Data Kelas
+- Data Perpustakaan
+- Data Tata Usaha
