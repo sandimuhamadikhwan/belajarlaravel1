@@ -4,4 +4,4 @@ Data Sekolah
 - Mata Pelajaran
 - Data Kelas
 - Data Perpustakaan
-- Data Tata Usaha
+- Data Buku
