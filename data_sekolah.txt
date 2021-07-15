@@ -1,0 +1,5 @@
+Data Sekolah
+- Data Guru
+- Data Siswa
+- Mata Pelajaran
+- Data Kelas
